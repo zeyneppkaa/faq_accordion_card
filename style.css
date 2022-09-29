@@ -1,0 +1,52 @@
+body {
+  background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  height: 820px;
+}
+
+.card {
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 1000px;
+  height: 500px;
+  background-color: white;
+  border-radius: 20px;
+}
+body div {
+  display: inline-block;
+}
+/* .icon {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+  }
+  .faq {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+  } */
+
+.title {
+  font-family: "Kumbh Sans", sans-serif;
+  font-weight: 700;
+  color: hsl(238, 29%, 16%);
+}
+
+#box-icon {
+  transform: translate(-310%, 45%);
+}
+
+#woman-icon {
+  transform: translate(-15%, 10%);
+}
+
+#bg-shadow-zemin {
+  transform: translate(-57%, -70%);
+}
+
+/* .card div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  } */
